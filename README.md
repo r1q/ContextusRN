@@ -1,6 +1,7 @@
 # ContextusRN
 iOS news reader built with [React Native](https://facebook.github.io/react-native/) and [Parse](http://parse.com).
 
+![Parse.com logo]("https://fbexternal-a.akamaihd.net/safe_image.php?d=AQB34QO1FkYkQ1Re&url=ht…Fhphotos-ak-xat1%2Ft39.2365-6%2F11057087_383147541893314_1185417903_n.png")
 
 ###Parse.com Data Structure
 ```
