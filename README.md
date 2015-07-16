@@ -56,7 +56,7 @@ Refer to React Native [documentation](https://facebook.github.io/react-native/do
 ###Reference Docs
   - [React Native](https://facebook.github.io/react-native/)
   - [React.js](http://facebook.github.io/react/)
-###Related Projects
+
 ###Copyright
 
 Source code is licensed under the MIT License (MIT). See LICENSE.txt file in the project root. Documentation to the project is licensed under the CC BY 4.0 license. React logo, React Native logo, and Parse.com image are trademarks of Facebook, Inc.
